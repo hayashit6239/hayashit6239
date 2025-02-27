@@ -25,8 +25,8 @@
 
 | Date | Event | Content |
 | ---- | ---- | ---- |
-| 2025 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | まずは実践！エラーバジェット活用による気づきと学び |
-| 2025.02.26 | 
+| 2025 | |  |
+| 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | まずは実践！エラーバジェット活用による気づきと学び |
 | 2025.01.26 | [SRE Kaigi 2025 LT 大会](https://2025.srekaigi.net/#timetable) | [エラーバジェット枯渇の原因 - 偽陽性との戦い -](https://speakerdeck.com/phaya72/erabazietutoku-ke-noyuan-yin-wei-yang-xing-tonozhan-i)
 | 2025.01.23 | Findy Tools 感謝祭 | Honeycomb で劇的改善デバッグ作業
 | 2024 | |
