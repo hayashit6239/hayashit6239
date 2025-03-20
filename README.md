@@ -26,7 +26,8 @@
 | Date | Event | Content |
 | ---- | ---- | ---- |
 | 2025 | |  |
-| 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | まずは実践！エラーバジェット活用による気づきと学び |
+| 2025.03.18 | [コミュニティ運営勉強会｜テックコミュニティ主催者LT vol.2](https://comucal.connpass.com/event/347687/)  | コミュニティとして大事にしたいこととイベントの在り方を見つめ直す
+| 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | [まずは実践！エラーバジェット活用による気づきと学び](https://findy-tools.io/events/052832029167dca24ae3) |
 | 2025.01.26 | [SRE Kaigi 2025 LT 大会](https://2025.srekaigi.net/#timetable) | [エラーバジェット枯渇の原因 - 偽陽性との戦い -](https://speakerdeck.com/phaya72/erabazietutoku-ke-noyuan-yin-wei-yang-xing-tonozhan-i)
 | 2025.01.23 | Findy Tools 感謝祭 | Honeycomb で劇的改善デバッグ作業
 | 2024 | |
@@ -38,3 +39,13 @@
 | 2024.04.25 | Google Cloud Next'24 報告会@Lazuli | [Google Cloud Next'24 で発表された Cloud Service Mesh に触れ合う](https://speakerdeck.com/phaya72/cloud-service-mesh-nihong-rehe-u)
 | 2024.03.15 | Jagu'e'r クラウドネイティブ分科会 Meetup#13 | [Cloud Deploy と仲良くなりたい](https://speakerdeck.com/phaya72/cloud-deploy-tozhong-liang-kunaritai)
 | 2024.02.22 | Google Cloud】GDG Tokyo Monthly Online Tech Talks | [Cloud Run に日々感謝](https://speakerdeck.com/phaya72/cloud-run-niri-gan-xie)
+
+## Event Host
+
+| Date | Event | Total Regist |
+| ---- | ---- | ---- |
+| 2025 | |  |
+| 2025.03.19 | [Jagu'e'r デジタルクラウド人材育成分科会 JACO Meetup#16」]() |  50 名
+| 2025.03.17 | [Next × Jagu'e'r プレイベント「Join us for the Next 2025」](https://jaguer.connpass.com/event/345377/) |  120 名
+| 2025.03.07 | [Jagu'e'r オブザーバビリティ分科会 Meetup#1](https://jaguer-o11y-sre.connpass.com/event/343531/) |  70 名
+
