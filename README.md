@@ -26,6 +26,7 @@
 | Date | Event | Content |
 | ---- | ---- | ---- |
 | 2025 | |  |
+| 2025.05.14 | [Jagu'e'r オブザーバビリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/)  | [非同期処理でも分散トレーシングしたい！ - OpenTelemetry × Pub/Sub -](https://speakerdeck.com/phaya72/sub)
 | 2025.03.18 | [コミュニティ運営勉強会｜テックコミュニティ主催者LT vol.2](https://comucal.connpass.com/event/347687/)  | コミュニティとして大事にしたいこととイベントの在り方を見つめ直す
 | 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | [まずは実践！エラーバジェット活用による気づきと学び](https://findy-tools.io/events/052832029167dca24ae3) |
 | 2025.01.26 | [SRE Kaigi 2025 LT 大会](https://2025.srekaigi.net/#timetable) | [エラーバジェット枯渇の原因 - 偽陽性との戦い -](https://speakerdeck.com/phaya72/erabazietutoku-ke-noyuan-yin-wei-yang-xing-tonozhan-i)
@@ -45,7 +46,7 @@
 | Date | Event | Total Regist |
 | ---- | ---- | ---- |
 | 2025 | |  |
-| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/) |  50 名
+| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/) |  70 名
 | 2025.04.24 | [Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) |  150 名
 | 2025.03.19 | [Jagu'e'r デジタルクラウド人材育成分科会 JACO Meetup#16」]() |  50 名
 | 2025.03.17 | [Next × Jagu'e'r プレイベント「Join us for the Next 2025」](https://jaguer.connpass.com/event/345377/) |  120 名
