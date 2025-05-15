@@ -30,7 +30,7 @@
 | 2025.03.18 | [コミュニティ運営勉強会｜テックコミュニティ主催者LT vol.2](https://comucal.connpass.com/event/347687/)  | コミュニティとして大事にしたいこととイベントの在り方を見つめ直す
 | 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | [まずは実践！エラーバジェット活用による気づきと学び](https://findy-tools.io/events/052832029167dca24ae3) |
 | 2025.01.26 | [SRE Kaigi 2025 LT 大会](https://2025.srekaigi.net/#timetable) | [エラーバジェット枯渇の原因 - 偽陽性との戦い -](https://speakerdeck.com/phaya72/erabazietutoku-ke-noyuan-yin-wei-yang-xing-tonozhan-i)
-| 2025.01.23 | Findy Tools 感謝祭 | Honeycomb で劇的改善デバッグ作業
+| 2025.01.23 | [Findy Tools 感謝祭](https://findy-tools.connpass.com/event/339331/) | Honeycomb で劇的改善デバッグ作業
 | 2024 | |
 | 2024.11.21 | Jagu'e'r AI/ML 分科会 Meetup#8 | [Vertex AI Experimentsの実態 - コードを辿った先にあったもの -](https://speakerdeck.com/phaya72/vertexaiexperimentsnoshi-tai)
 | 2024.09.24 | [Findy Tools オブザーバビリティ実践までの道のり ~ 各社の課題とアプリーチ方法とは？ 〜](https://findy.connpass.com/event/328935/) | [オブザーバビリティと開発優先度との向き合い方](https://speakerdeck.com/phaya72/obuzababiriteitokai-fa-you-xian-du-tonoxiang-kihe-ifang)
