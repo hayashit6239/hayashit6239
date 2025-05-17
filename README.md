@@ -26,6 +26,7 @@
 | Date | Event | Content |
 | ---- | ---- | ---- |
 | 2025 | |  |
+| 2025.05.16 | [3-shake SRE Tech Talk #12 オンサイト](https://3-shake.connpass.com/event/351861/?utm_campaign=event_reminder&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | [OpenTelemetry SpanProcessor を Let's カスタマイズ！](https://speakerdeck.com/phaya72/opentelemetry-no-spanprocessor-wo-lets-kasutamaizu)
 | 2025.05.14 | [Jagu'e'r オブザーバビリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/)  | [非同期処理でも分散トレーシングしたい！ - OpenTelemetry × Pub/Sub -](https://speakerdeck.com/phaya72/sub)
 | 2025.03.18 | [コミュニティ運営勉強会｜テックコミュニティ主催者LT vol.2](https://comucal.connpass.com/event/347687/)  | コミュニティとして大事にしたいこととイベントの在り方を見つめ直す
 | 2025.02.26 | [Findy Tools そのオブザーバビリティツール、どう活かした？実践例と効果の全貌](https://findy-tools.connpass.com/event/343831/) | [まずは実践！エラーバジェット活用による気づきと学び](https://findy-tools.io/events/052832029167dca24ae3) |
