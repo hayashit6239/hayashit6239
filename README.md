@@ -47,7 +47,8 @@
 | Date | Event | Total Regist |
 | ---- | ---- | ---- |
 | 2025 | |  |
-| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/) |  70 名
+| 2025.05.26 | [Jagu'e'r 月末 Tech Lunch Online#1]() |  70 名
+| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-tech-lunch.connpass.com/event/352740/) |  60 名
 | 2025.04.24 | [Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) |  150 名
 | 2025.03.19 | [Jagu'e'r デジタルクラウド人材育成分科会 JACO Meetup#16」]() |  50 名
 | 2025.03.17 | [Next × Jagu'e'r プレイベント「Join us for the Next 2025」](https://jaguer.connpass.com/event/345377/) |  120 名
