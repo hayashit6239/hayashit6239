@@ -26,6 +26,7 @@
 | Date | Event | Content |
 | ---- | ---- | ---- |
 | 2025 | |  |
+| 2025.07.22 | [Jagu'e'r 月末 Tech Lunch](https://jaguer-tech-lunch.connpass.com/event/360328/) | [Pub/Sub vs Cloud Tasks - その違い、わかりますか？ -](https://speakerdeck.com/phaya72/sub-vs-cloud-tasks-sonowei-i-wakarimasuka)
 | 2025.06.20 | [Cloud Operator Days Tokyo 2025](https://cloudopsdays.com/) | []()
 | 2025.05.16 | [3-shake SRE Tech Talk #12 オンサイト](https://3-shake.connpass.com/event/351861/?utm_campaign=event_reminder&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | [OpenTelemetry SpanProcessor を Let's カスタマイズ！](https://speakerdeck.com/phaya72/opentelemetry-no-spanprocessor-wo-lets-kasutamaizu)
 | 2025.05.14 | [Jagu'e'r オブザーバビリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-o11y-sre.connpass.com/event/352510/)  | [非同期処理でも分散トレーシングしたい！ - OpenTelemetry × Pub/Sub -](https://speakerdeck.com/phaya72/sub)
@@ -48,8 +49,8 @@
 | Date | Event | Total Regist |
 | ---- | ---- | ---- |
 | 2025 | |  |
-| 2025.07.23 | [Jagu'e'r 月末 Tech Lunch Online#3](https://jaguer-tech-lunch.connpass.com/event/360328/) |  xx 名
-| 2025.07.22 | [Jagu'e'r オブザービリティ分科会 Meetup#3 「オブザーバビリティの最前線 form Software Design」](https://jaguer-o11y-sre.connpass.com/event/359593/) |  xx 名
+| 2025.07.23 | [Jagu'e'r 月末 Tech Lunch Online#3](https://jaguer-tech-lunch.connpass.com/event/360328/) |  50 名
+| 2025.07.22 | [Jagu'e'r オブザービリティ分科会 Meetup#3 「オブザーバビリティの最前線 form Software Design」](https://jaguer-o11y-sre.connpass.com/event/359593/) |  80 名
 | 2025.06.24 | [Jagu'e'r 月末 Tech Lunch Online#2](https://jaguer-tech-lunch.connpass.com/event/354120/) |  60 名
 | 2025.05.26 | [Jagu'e'r 月末 Tech Lunch Online#1](https://jaguer-tech-lunch.connpass.com/event/352740/) |  60 名
 | 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-tech-lunch.connpass.com/event/352740/) |  60 名
