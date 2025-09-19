@@ -50,6 +50,8 @@
 | Date | Event | Total Regist |
 | ---- | ---- | ---- |
 | 2025 | |  |
+| 2025.09.24 | [Jagu'e'r 月末 Tech Lunch Online#5](https://jaguer-tech-lunch.connpass.com/event/360901/) |  xx 名
+| 2025.09.18 | [Jagu'e'r Park 2025](https://jaguer.jp/park2025/) |  300 名
 | 2025.08.28 | [Jagu'e'r 月末 Tech Lunch Online#4](https://jaguer-tech-lunch.connpass.com/event/360900/) |  80 名
 | 2025.07.23 | [Jagu'e'r 月末 Tech Lunch Online#3](https://jaguer-tech-lunch.connpass.com/event/360328/) |  50 名
 | 2025.07.22 | [Jagu'e'r オブザービリティ分科会 Meetup#3 「オブザーバビリティの最前線 form Software Design」](https://jaguer-o11y-sre.connpass.com/event/359593/) |  80 名
