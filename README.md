@@ -24,8 +24,8 @@
 ## Outputs
 
 | Date | Event | Content | Audience
-| ---- | ---- | ---- |
-| 2025 | |  |
+| ---- | ---- | ---- | ---- |
+| 2025 | |  | |
 | 2025.11.01 | [KomeKaigi 2025](https://komekaigi.dev/) | GKE to Cloud Run - 初めてのインフラリビルド & アーキテクチャドキュメントの重要性 - | xx
 | 2025.10.20 | [Jagu'e'r クラウドネイティブ分科会 Meetup#20「Gemini CLI × クラウドネイティブ」](https://jaguer-cloud-native.connpass.com/event/369596/) | [OpenTelemetry が拡げる Gemini CLI の可観測性](https://speakerdeck.com/phaya72/opentelemetry-gakuo-geru-gemini-cli-noke-guan-ce-xing) | 50 名
 | 2025.07.22 | [Jagu'e'r 月末 Tech Lunch](https://jaguer-tech-lunch.connpass.com/event/360328/) | [Pub/Sub vs Cloud Tasks - その違い、わかりますか？ -](https://speakerdeck.com/phaya72/sub-vs-cloud-tasks-sonowei-i-wakarimasuka)
