@@ -23,10 +23,11 @@
 
 ## Outputs
 
-| Date | Event | Content |
+| Date | Event | Content | Audience
 | ---- | ---- | ---- |
 | 2025 | |  |
-| 2025.11.01 | [KomeKaigi 2025](https://komekaigi.dev/) | GKE to Cloud Run - 初めてのインフラリビルド & アーキテクチャドキュメントの重要性 - 
+| 2025.11.01 | [KomeKaigi 2025](https://komekaigi.dev/) | GKE to Cloud Run - 初めてのインフラリビルド & アーキテクチャドキュメントの重要性 - | xx
+| 2025.10.20 | [Jagu'e'r クラウドネイティブ分科会 Meetup#20「Gemini CLI × クラウドネイティブ」](https://jaguer-cloud-native.connpass.com/event/369596/) | [OpenTelemetry が拡げる Gemini CLI の可観測性](https://speakerdeck.com/phaya72/opentelemetry-gakuo-geru-gemini-cli-noke-guan-ce-xing) | 50 名
 | 2025.07.22 | [Jagu'e'r 月末 Tech Lunch](https://jaguer-tech-lunch.connpass.com/event/360328/) | [Pub/Sub vs Cloud Tasks - その違い、わかりますか？ -](https://speakerdeck.com/phaya72/sub-vs-cloud-tasks-sonowei-i-wakarimasuka)
 | 2025.06.20 | [Cloud Operator Days Tokyo 2025](https://cloudopsdays.com/) | [非同期処理のトラブルシューティングを加速！ Google Cloud × OpenTelemetry でトレースをつなぐ](https://speakerdeck.com/nttcom/accelerate-async-troubleshooting-connecting-traces-with-google-cloud-and-opentelemetry)
 | 2025.05.16 | [3-shake SRE Tech Talk #12 オンサイト](https://3-shake.connpass.com/event/351861/?utm_campaign=event_reminder&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | [OpenTelemetry SpanProcessor を Let's カスタマイズ！](https://speakerdeck.com/phaya72/opentelemetry-no-spanprocessor-wo-lets-kasutamaizu)
