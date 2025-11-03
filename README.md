@@ -1,7 +1,7 @@
-# Profile 👋
+# 👋 Profile 👋
 
 
-## Basic Information
+## 🙋‍♂️ Basic Information
 
 | Key | Value |
 | ---- | ---- |
@@ -10,7 +10,7 @@
 | Zenn | [t_hayashi](https://zenn.dev/t_hayashi) |
 | Speaker Deck | [phaya72](https://speakerdeck.com/phaya72) |
 
-## Engineer Title
+## 🎊 Engineer Title
 
 | Date | Title |
 | ---- | ---- |
@@ -18,10 +18,10 @@
 | 2024.11.11 | Google Cloud Partner Tech Blog Challenge 2024 個人カテゴリ 優秀賞 |
 | 2023.11.20 | Google Cloud Partner Top Engineer 2024 |
 
-## Google Cloud Certifications
+## ✨ Google Cloud Certifications
 [Credly](https://www.credly.com/users/tomonori-hayashi.5ca5f180)
 
-## Outputs
+## 🎤 Outputs
 
 | Date | Event | Content | Audience
 | ---- | ---- | ---- | ---- |
@@ -46,21 +46,23 @@
 | 2024.03.15 | Jagu'e'r クラウドネイティブ分科会 Meetup#13 | [Cloud Deploy と仲良くなりたい](https://speakerdeck.com/phaya72/cloud-deploy-tozhong-liang-kunaritai)
 | 2024.02.22 | Google Cloud】GDG Tokyo Monthly Online Tech Talks | [Cloud Run に日々感謝](https://speakerdeck.com/phaya72/cloud-run-niri-gan-xie)
 
-## Event Host
+## 🌐 Event Staff
 
-| Date | Event | Total Regist |
-| ---- | ---- | ---- |
-| 2025 | |  |
-| 2025.09.24 | [Jagu'e'r 月末 Tech Lunch Online#5](https://jaguer-tech-lunch.connpass.com/event/360901/) |  xx 名
-| 2025.09.18 | [Jagu'e'r Park 2025](https://jaguer.jp/park2025/) |  300 名
-| 2025.08.28 | [Jagu'e'r 月末 Tech Lunch Online#4](https://jaguer-tech-lunch.connpass.com/event/360900/) |  80 名
-| 2025.07.23 | [Jagu'e'r 月末 Tech Lunch Online#3](https://jaguer-tech-lunch.connpass.com/event/360328/) |  50 名
-| 2025.07.22 | [Jagu'e'r オブザービリティ分科会 Meetup#3 「オブザーバビリティの最前線 form Software Design」](https://jaguer-o11y-sre.connpass.com/event/359593/) |  80 名
-| 2025.06.24 | [Jagu'e'r 月末 Tech Lunch Online#2](https://jaguer-tech-lunch.connpass.com/event/354120/) |  60 名
-| 2025.05.26 | [Jagu'e'r 月末 Tech Lunch Online#1](https://jaguer-tech-lunch.connpass.com/event/352740/) |  60 名
-| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-tech-lunch.connpass.com/event/352740/) |  60 名
-| 2025.04.24 | [Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) |  150 名
-| 2025.03.19 | [Jagu'e'r デジタルクラウド人材育成分科会 JACO Meetup#16」]() |  50 名
-| 2025.03.17 | [Next × Jagu'e'r プレイベント「Join us for the Next 2025」](https://jaguer.connpass.com/event/345377/) |  120 名
-| 2025.03.07 | [Jagu'e'r オブザーバビリティ分科会 Meetup#1 「オブザーバビリティ × Google Cloud」](https://jaguer-o11y-sre.connpass.com/event/343531/) |  70 名
+| Date | Event | Role | Total Regist |
+| ---- | ---- | ---- | ---- |
+| 2025 | |  | |
+| 2025.10.31 | [Jagu'e'r 月末 Tech Lunch Online#6](https://jaguer-tech-lunch.connpass.com/event/362362/) | Organizer |  70 名
+| 2025.10.27 | [Observability Conference Tokyo 2025](https://o11ycon.jp/) | Core Staff | 1300 名
+| 2025.09.24 | [Jagu'e'r 月末 Tech Lunch Online#5](https://jaguer-tech-lunch.connpass.com/event/360901/) | Organizer |  50 名
+| 2025.09.18 | [Jagu'e'r Park 2025](https://jaguer.jp/park2025/) | Core Staff |  300 名
+| 2025.08.28 | [Jagu'e'r 月末 Tech Lunch Online#4](https://jaguer-tech-lunch.connpass.com/event/360900/) | Organizer |  80 名
+| 2025.07.23 | [Jagu'e'r 月末 Tech Lunch Online#3](https://jaguer-tech-lunch.connpass.com/event/360328/) | Organizer |  50 名
+| 2025.07.22 | [Jagu'e'r オブザービリティ分科会 Meetup#3 「オブザーバビリティの最前線 form Software Design」](https://jaguer-o11y-sre.connpass.com/event/359593/) | Organizer |  80 名
+| 2025.06.24 | [Jagu'e'r 月末 Tech Lunch Online#2](https://jaguer-tech-lunch.connpass.com/event/354120/) | Organizer |  60 名
+| 2025.05.26 | [Jagu'e'r 月末 Tech Lunch Online#1](https://jaguer-tech-lunch.connpass.com/event/352740/) | Organizer |  60 名
+| 2025.05.14 | [Jagu'e'r オブザービリティ分科会 Meetup#2 「オブザーバビリティ × OpenTelemetry」](https://jaguer-tech-lunch.connpass.com/event/352740/) | Organizer |  60 名
+| 2025.04.24 | [Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) | Co-Organizer |  150 名
+| 2025.03.19 | [Jagu'e'r デジタルクラウド人材育成分科会 JACO Meetup#16」]() | Core Staff |  50 名
+| 2025.03.17 | [Next × Jagu'e'r プレイベント「Join us for the Next 2025」](https://jaguer.connpass.com/event/345377/) | Co-Organizer |  120 名
+| 2025.03.07 | [Jagu'e'r オブザーバビリティ分科会 Meetup#1 「オブザーバビリティ × Google Cloud」](https://jaguer-o11y-sre.connpass.com/event/343531/) | Organizer |  70 名
 
