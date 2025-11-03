@@ -9,6 +9,7 @@
 | X | [@pHaya72](https://x.com/pHaya72) |
 | Zenn | [t_hayashi](https://zenn.dev/t_hayashi) |
 | Speaker Deck | [phaya72](https://speakerdeck.com/phaya72) |
+| LinkedIn | [Tomonori Hayashi](https://www.linkedin.com/in/tomonori-hayashi-5a818a188/)
 
 ## 🎊 Engineer Title
 
