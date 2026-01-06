@@ -15,6 +15,7 @@
 
 | Date | Title |
 | ---- | ---- |
+| 2025.11.20 | [Google Cloud Partner Top Engineer 2026](https://rsvp.withgoogle.com/events/google-cloud-partner-top-engineer/awards2026) |
 | 2024.11.20 | [Google Cloud Partner Top Engineer 2025](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners) |
 | 2024.11.11 | Google Cloud Partner Tech Blog Challenge 2024 個人カテゴリ 優秀賞 |
 | 2023.11.20 | Google Cloud Partner Top Engineer 2024 |
@@ -52,6 +53,8 @@
 | Date | Event | Role | Total Regist |
 | ---- | ---- | ---- | ---- |
 | 2025 | |  | |
+| 2025.11.27 | [Jagu'e'r 月末 Tech Lunch Online#8](https://jaguer-tech-lunch.connpass.com/event/367056/) | Organizer |  90 名
+| 2025.11.27 | [Jagu'e'r 月末 Tech Lunch Online#7](https://jaguer-tech-lunch.connpass.com/event/362363/) | Organizer |  80 名
 | 2025.10.31 | [Jagu'e'r 月末 Tech Lunch Online#6](https://jaguer-tech-lunch.connpass.com/event/362362/) | Organizer |  70 名
 | 2025.10.27 | [Observability Conference Tokyo 2025](https://o11ycon.jp/) | Core Staff | 1300 名
 | 2025.09.24 | [Jagu'e'r 月末 Tech Lunch Online#5](https://jaguer-tech-lunch.connpass.com/event/360901/) | Organizer |  50 名
