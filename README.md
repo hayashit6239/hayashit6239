@@ -27,6 +27,8 @@
 
 | Date | Event | Content | Audience
 | ---- | ---- | ---- | ---- |
+| 2026 | |  | |
+| 2026.02.18 | [NTT Tech Conference](https://ntt-techconf.connpass.com/event/382775/) | ビジネス要望の翻訳が生むアーキテクチャの複雑性とトレードオフ | xx 名
 | 2025 | |  | |
 | 2025.11.01 | [KomeKaigi 2025](https://komekaigi.dev/) | [設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント](https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento) | 100 名
 | 2025.10.20 | [Jagu'e'r クラウドネイティブ分科会 Meetup#20「Gemini CLI × クラウドネイティブ」](https://jaguer-cloud-native.connpass.com/event/369596/) | [OpenTelemetry が拡げる Gemini CLI の可観測性](https://speakerdeck.com/phaya72/opentelemetry-gakuo-geru-gemini-cli-noke-guan-ce-xing) | 50 名
