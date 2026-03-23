@@ -28,7 +28,8 @@
 | Date | Event | Content | Audience
 | ---- | ---- | ---- | ---- |
 | 2026 | |  | |
-| 2026.02.18 | [NTT Tech Conference](https://ntt-techconf.connpass.com/event/382775/) | ビジネス要望の翻訳が生むアーキテクチャの複雑性とトレードオフ | xx 名
+| 2026.03.06 | Engineer Day 26 | アーキテクト視点で導く SLI/SLO 設計 | 70 名
+| 2026.02.18 | [NTT Tech Conference](https://ntt-techconf.connpass.com/event/382775/) | [ビジネス要望の翻訳が生むアーキテクチャの複雑性とトレードオフ](https://speakerdeck.com/phaya72/bizinesuyao-wang-nofan-yi-gasheng-mu-akitekutiyanofu-za-xing-totoredoohu) | 70 名
 | 2025 | |  | |
 | 2025.11.01 | [KomeKaigi 2025](https://komekaigi.dev/) | [設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント](https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento) | 100 名
 | 2025.10.20 | [Jagu'e'r クラウドネイティブ分科会 Meetup#20「Gemini CLI × クラウドネイティブ」](https://jaguer-cloud-native.connpass.com/event/369596/) | [OpenTelemetry が拡げる Gemini CLI の可観測性](https://speakerdeck.com/phaya72/opentelemetry-gakuo-geru-gemini-cli-noke-guan-ce-xing) | 50 名
@@ -54,7 +55,12 @@
 
 | Date | Event | Role | Total Regist |
 | ---- | ---- | ---- | ---- |
+| 2026 | |  | |
+| 2025.03.24 | [Jagu'e'r 月末 Tech Lunch Online#12](https://jaguer-tech-lunch.connpass.com/event/385612/) | Organizer | 50 名
+| 2025.02.24 | [Jagu'e'r 月末 Tech Lunch Online#11](https://jaguer-tech-lunch.connpass.com/event/380673/) | Organizer | 60 名
+| 2026.01.29 | [Jagu'e'r 月末 Tech Lunch Online#10](https://jaguer-tech-lunch.connpass.com/event/372663/) | Organizer | 90 名
 | 2025 | |  | |
+| 2025.12.19 | [Jagu'e'r 月末 Tech Lunch Online#9](https://jaguer-tech-lunch.connpass.com/event/367056/) | Organizer |  90 名
 | 2025.11.27 | [Jagu'e'r 月末 Tech Lunch Online#8](https://jaguer-tech-lunch.connpass.com/event/367056/) | Organizer |  90 名
 | 2025.11.27 | [Jagu'e'r 月末 Tech Lunch Online#7](https://jaguer-tech-lunch.connpass.com/event/362363/) | Organizer |  80 名
 | 2025.10.31 | [Jagu'e'r 月末 Tech Lunch Online#6](https://jaguer-tech-lunch.connpass.com/event/362362/) | Organizer |  70 名
