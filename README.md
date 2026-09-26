@@ -53,6 +53,48 @@
 | 2024.03.15 | Jagu'e'r クラウドネイティブ分科会 Meetup#13 | [Cloud Deploy と仲良くなりたい](https://speakerdeck.com/phaya72/cloud-deploy-tozhong-liang-kunaritai)
 | 2024.02.22 | Google Cloud】GDG Tokyo Monthly Online Tech Talks | [Cloud Run に日々感謝](https://speakerdeck.com/phaya72/cloud-run-niri-gan-xie)
 
+## 📝 Articles
+
+| Date | Title | Views | Keyword | Platform |
+| ---- | ---- | ---- | ---- | ---- |
+| 2026 | | | | |
+| 2026.08.24 | お前のループエンジニアリングは間違っている | 20K | AI Agent | Zenn |
+| 2026.08.17 | Google Cloud Next Tokyo 26 の Developer Stage が熱い！ | 0.2K | Google Cloud | Zenn |
+| 2026.06.17 | AI エージェント用パッケージ管理 APM からセキュリティを学ぶ | 0.3K | Security | Zenn |
+| 2025 | | | |
+| 2025.11.04 | 設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント & KomeKaigi 2025 感想 | 3.5K | Architecture | Zenn |
+| 2025.10.22 | OpenTelemetry が拡げる Gemini CLI の可観測性 | 1.7K | OpenTelemetry | Zenn |
+| 2025.08.13 | Google Cloud Next Tokyo 25 の Developer Stage が熱い！ | 1.5K | Google Cloud | Zenn |
+| 2025.05.18 | OpenTelemetry 小ネタ - Pub/Sub 連携 & SpanProcessor カスタム- | 0.3K | OpenTelemetry | Zenn |
+| 2025.05.12 | 【読書感想文】Google Cloud ではじめる実践データエンジニアリング入門 | 0.5K | Google Cloud | Zenn |
+| 2025.03.31 | Next.js App Router で実装！技術スタック共有っぽいサンプルアプリ | 3.2K | Next.js | Zenn |
+| 2025.03.01 | Next.js App Router で実装！フリマっぽいサンプルアプリ | 5.1K | Next.js | Zenn |
+| 2025.02.12 | 【読書感想文】TypeScript と React/Next.js でつくる実践 Web アプリケーション | 7.8K | Next.js | Zenn |
+| 2024 | | | 
+| 2024.11.25 | Vertex AI Experiments をコードから読み解いてみた | 0.8K | Google Cloud | Zenn |
+| 2024.09.12 | Cloud Service Mesh + Cloud Run でサービスメッシュ構築 | 1.3K | Google Cloud | Zenn |
+| 2024.08.23 | Cloud Functions から Cloud Run functions に移行してみたら学びが深かった話 | 4.6K | Google Cloud | Zenn |
+| 2024.08.05 | セキュリティを意識した Google Cloud で構築する開発環境プラクティス | 0.4K | Google Cloud | Zenn |
+| 2024.07.22 | Kind × Scaffold で手軽に継続的な開発を体験したい | 0.3K | Kubernetes | Zenn |
+| 2024.05.27 | Cloud Service Mesh を深掘りたい！- Part.2 公式ドキュメント - | 0.7K | Google Cloud | Zenn |
+| 2024.05.14 | 入門！Python × OpenTelemetry × Google Cloud Observability | 1K | OpenTelemetry | Zenn |
+| 2024.05.27 | Cloud Service Mesh を深掘りたい！- Part.1 Next'24 での発表 - | 1.2K | Google Cloud | Zenn |
+| 2024.03.24 | Cloud Run で Filestore をマウントしてみる | 0.8K | Google Cloud | Zenn |
+| 2024.03.24 | Cloud Deploy で高度なデリバリーパイプラインを作りたい | 0.9K | Google Cloud | Zenn |
+| 2024.02.26 | Cloud Run の恩恵を受けている機能の紹介 | 0.2K | Google Cloud | Zenn |
+| 2024.05.28 | GKE で手間をかけずに Let's オブザーバビリティ ! - 後編 - | 0.9K | Google Cloud | Zenn |
+| 2024.05.28 | GKE で手間をかけずに Let's オブザーバビリティ！-前編- | 0.8K | Google Cloud | Zenn |
+| 2024.03.24 | GKE Gateway Controller でサービスネットワーキング | 0.9K | Google Cloud | Zenn |
+| 2024.03.24 | Infrastructure Manager でより手軽に Terraform で IaC | 2K | Google Cloud | Zenn |
+| 2024.03.24 | CDK for Terraform で GKE をプロビジョニング | 0.4K | Terraform | Zenn |
+| 2024.03.24 | Vertex AI と仲良くなろうとしたら生成系 AI と仲良くなれた | 1.2K | Google Cloud | Zenn |
+| 2024.03.24 | Github Actions + Cloud Deploy でモダンな CI/CD 実装 | 2.5K | Google Cloud | Zenn |
+| 2024.03.24 | Dataform + BigQuery MLで Let's 機械学習パイプライン | 1K | Google Cloud | Zenn |
+| 2025.03.24 | Batch と Cloud Run jobs ってどっち使えばいいの？ - Cloud Run jobs 編 - | 3.2K | Google Cloud | Zenn |
+| 2024.03.24 | Batch と Cloud Run jobs ってどっち使えばいいの？ - Batch 編 - | 3K | Google Cloud | Zenn |
+| 2024.03.24 | BigQuery のJSON型データの操作とテキスト検索の高速化を検証してみた | 2.8K | Google Cloud | Zenn |
+| 2024.03.24 | BigQuery で非構造化データを扱ってみませんか？ | 2.4K | Google Cloud | Zenn |
+
 ## 🌐 Event Staff
 
 | Date | Event | Role | Total Regist |
