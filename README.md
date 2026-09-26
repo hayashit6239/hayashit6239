@@ -28,6 +28,7 @@
 | Date | Event | Content | Audience
 | ---- | ---- | ---- | ---- |
 | 2026 | |  | |
+| 2026.07.31 | [Google Cloud Next Tokyo 26](https://www.googlecloudevents.com/next-tokyo/sessions?session_id=4203195) | 【ユーザー会】優れたエンジニア達が集まるコミュニティ Jagu'e'r の魅力とは？ | 40 名
 | 2026.06.04 | [Next '26 × Jagu'e'r アフターイベント+α ランチタイムLT](https://jaguer.connpass.com/event/395243/) | BigQuery の Cross-cloud Lakehouse への歩み | 40 名
 | 2026.03.06 | Engineer Day 26 | アーキテクト視点で導く SLI/SLO 設計 | 70 名
 | 2026.02.18 | [NTT Tech Conference](https://ntt-techconf.connpass.com/event/382775/) | [ビジネス要望の翻訳が生むアーキテクチャの複雑性とトレードオフ](https://speakerdeck.com/phaya72/bizinesuyao-wang-nofan-yi-gasheng-mu-akitekutiyanofu-za-xing-totoredoohu) | 70 名
@@ -57,9 +58,15 @@
 | Date | Event | Role | Total Regist |
 | ---- | ---- | ---- | ---- |
 | 2026 | |  | |
+| 2026.09.30 | [Jagu'e'r 月末 Tech Lunch Online#17](https://jaguer-tech-lunch.connpass.com/event/389546/) | Organizer | 70 名
+| 2026.08.27 | [Jagu'e'r 月末 Tech Dineer Offline#16](https://jaguer-tech-lunch.connpass.com/event/389546/) | Organizer | 70 名
+| 2026.07.23 | [Jagu'e'r 月末 Tech Lunch Online#15](https://jaguer-tech-lunch.connpass.com/event/389546/) | Organizer | 70 名
+| 2026.06.40 | [Jagu'e'r オブザービリティ分科会 Meetup#5 「K8s Novice コラボ」K8s/GLE O11y の第一歩](https://jaguer-o11y-sre.connpass.com/event/383793/) | Organizer |  100
+| 2026.06.25 | [Jagu'e'r 月末 Tech Lunch Online#14](https://jaguer-tech-lunch.connpass.com/event/389546/) | Organizer | 70 名
 | 2026.05.29 | [Jagu'e'r 月末 Tech Lunch Online#13](https://jaguer-tech-lunch.connpass.com/event/389546/) | Organizer | 70 名
 | 2026.04.28 | [Jagu'e'r 月末 Tech Lunch Online#12](https://jaguer-tech-lunch.connpass.com/event/387254/) | Organizer | 120 名
 | 2026.03.24 | [Jagu'e'r 月末 Tech Lunch Online#11](https://jaguer-tech-lunch.connpass.com/event/385612/) | Organizer | 50 名
+| 2026.02.26 | [Google Cloud Community Tech Surge 2026 presented by Jagu'e'r](https://2026.gcts.jp/) | Organizer | 400 名
 | 2026.02.24 | [Jagu'e'r 月末 Tech Lunch Online#10](https://jaguer-tech-lunch.connpass.com/event/380673/) | Organizer | 60 名
 | 2026.01.29 | [Jagu'e'r 月末 Tech Lunch Online#9](https://jaguer-tech-lunch.connpass.com/event/372663/) | Organizer | 90 名
 | 2025 | |  | |
